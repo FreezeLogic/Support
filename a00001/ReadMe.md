@@ -1,9 +1,13 @@
 # Give a Partner Access to Assets in Your Business Manager
 To add partners to your business:
-1. Go to [Facebook Business Settings](https://business.facebook.com/settings/partners) page.
-2. Below Users, click Partners.
-3. Click + Add.
+- Go to [Facebook Business Settings](https://business.facebook.com/settings/partners) page.
+- Below ***Users***(1), click ***Partners***(2), then click ***Add***(3).
+![1](00001.png)
+- Enter our **Business ID** which was sent to you
+![2](00002.png)
 
+
+- SEnter our **Business ID** that was sent to you .
 
 
 
